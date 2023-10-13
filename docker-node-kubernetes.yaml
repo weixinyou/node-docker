@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: todo-site
-        image: wilsonyou/getting-started
+        image: wilsonyou/myrepo
         imagePullPolicy: Always
 ---
 apiVersion: v1
